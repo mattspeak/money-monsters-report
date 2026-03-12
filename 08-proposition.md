@@ -1,8 +1,22 @@
-# 5. Proposition: How the Financial Literacy Solution Lands
+---
+title: "Proposition"
+nav_order: 10
+layout: default
+---
 
-## 5.1 The Three Propositions Tested
+# 7. Proposition: How the Financial Literacy Solution Lands
+
+> **Emerging CZ perspective** *(draft notes — for team discussion 06/03)*
+> - "Money Stuff Nobody Explains" has the clearest plurality in CZ (4/8), and is the dominant YA choice (3/3 completed YA interviews) — stronger signal than UK where YAs split with "Train Your Money Brain"
+> - "Train Your Money Brain" barely lands in CZ — only 1 participant chose it, and flagged the phrasing as cringe; may be less of a contender cross-market than current report implies
+> - "Real Money Skills for Life" performs better in CZ than UK — no "cringey" reaction from Older Teens or Young Adults; seems to be a market-specific pattern not a universal ceiling
+> - Tentative read: "Money Stuff" is the emerging lead, but needs R09/R10/R11 to confirm — two of the three are YAs which is the segment driving this signal
+
+## The Three Propositions Tested
 
 Three proposition concepts were tested using short stimulus cards. Participants gave an immediate instinctive reaction, then engaged more closely with their preferred option before reflecting on alternatives.
+
+{update to be a table with a final }
 
 **"Money Stuff Nobody Explains"**
 *The basics other people seem to just know. We give you all of it — explained simply.*
@@ -18,19 +32,18 @@ Key benefits: Making your money last; Living independently with confidence; Unde
 
 ---
 
-## 5.2 What Resonated and Why
+## What Resonated and Why
 
 No single proposition dominated. Preferences reflected each participant's relationship with money and attitude to learning.
 
 ### "Money Stuff Nobody Explains"
 
-- Resonated most with Young Teens and gap-aware Young Adults
+- Resonated most with Young Teens. In CZ particularly so because of its practical, immediate tone
 - Frames financial knowledge as *insider access* — things you should have been told, not things you missed
 - Falls flat with more financially literate Young Adults — implies they haven't been paying attention
 - Works best when the gap is framed as a failure of the system, not the user
 
-- *Zain (20) chose it for pre-emptive logic: "learning what catches people out before it catches me"*
-
+>*"I was actually interested in how it was written, skills for life, and actually it, you could say, teaches you a lot of things... that's actually like everything good that I need, so actually, you could say that it completely describes me."* – Veronika (13, CZ)
 ### "Train Your Money Brain"
 
 - Strongest proposition for Older Teens and Young Adults open to learning about money
@@ -38,17 +51,20 @@ No single proposition dominated. Preferences reflected each participant's relati
 - *"You're already making money decisions. Make better ones"* was the most frequently referenced phrase across all propositions
 - Limitation: for Young Teens, implies effort before reward is visible — reads as "schoolish"
 
+> *"It feels like school. Because the title is like what school was like last month."* (Sam, 14, UK)
+
 ### "Real Money Skills for Life"
 
 - Instinctive appeal to participants who find financial education intimidating — "simple" and "easy" land immediately
 - Becomes a liability with older participants: "skills for life" triggers generic educational associations
 - Its accessibility is both its appeal and its ceiling
 
-- *Mohammad (23): "a bit cringe"; Zain (20): "too schooly"*
+> *"I like it when things are easy."* (Lottie, 13, UK)
+> {contrasting quote higher segment}
 
 ---
 
-## 5.3 Segment-Level Proposition Response
+## Segment-Level Proposition Response
 
 > These segment observations inform a single unified proposition — the task is identifying which elements have the broadest cross-segment appeal, not building separate communications for each group.
 ### Young Teens
@@ -58,6 +74,8 @@ No single proposition dominated. Preferences reflected each participant's relati
 - "Money Stuff" appeals to more curious participants drawn to insider framing; "Real Money Skills" to those needing reassurance of accessibility
 - "Money Brain" reads as an externally imposed commitment — outcome before reward
 - Most important signal: *this is for someone like me* — generic educational framing consistently failed
+
+> *"Because I'm not really making, like, obviously big decisions right now because I'm only 14."* (Olivia, 14, UK)
 ### Older Teens
 
 - "Money Brain" landed most clearly — all three participants either chose it outright or returned to it on reflection
@@ -74,7 +92,7 @@ No single proposition dominated. Preferences reflected each participant's relati
 
 ---
 
-## 5.4 What Should Come "Above the Fold"
+## What Should Come "Above the Fold"
 
 Three content types consistently triggered the most positive responses across all segments:
 
@@ -82,17 +100,15 @@ Three content types consistently triggered the most positive responses across al
 - **Agency-affirming language** — positioning the user as already active, receiving an upgrade not a lesson
 - **Specificity over aspiration** — benefits participants can map onto their own lives, not abstract futures
 
-- *Mohammad (23) connected to "think ahead before you spend"; Grace (19) to "stuff that catches people out" — broad aspirational benefits were noted but didn't motivate*
-
 The raw material is present in the current propositions. The task is prioritisation: lead with these three qualities and strip the generic educational language around them.
+
+> {quote space}
 
 ---
 
-## 5.5 Language and Framing Principles
+## Language and Framing Principles
 
-- **Avoid "skills" as a framing word** — triggers school and workplace training associations with Older Teens and Young Adults; outcome language outperforms it
-  - *"Know exactly what to do when your first credit card bill arrives" lands better than "develop key financial skills"*
+- **Avoid triggering phrases** — 'skills' triggers school and workplace training associations with Older Teens and Young Adults; outcome language outperforms it
 - **"Simple" works for Young Teens; alienates older segments** — signals accessibility to younger users, but implies the content won't be worth older users' time
 - **Practical beats inspirational** — situation-specific language consistently outperformed aspirational framing
-  - *"Understand what your savings account is actually doing with your money" beats "build financial confidence"*
 - **Situate the knowledge gap in the system, not the user** — "nobody teaches this in school" performs better than "the basics other people already know"; the distinction is subtle but consistently affected reception
